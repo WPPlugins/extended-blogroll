@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Extended Blogroll v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-09-01 17:14+0100\n"
+"Last-Translator: H.-Peter Pfeufer <info@ppfeufer.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ extended_blogroll
+#: extended-blogroll.php:42
+msgid "The recent posts of your blogroll links"
+msgstr ""
+
+#@ extended_blogroll
+#: extended-blogroll.php:213
+msgid "Make sure, that you have entered the right RSS Addresses to your links in the Links Subpanel. Otherwise this plugin will not work correctly. No item is shown when a wrong or no RSS Address is entered!"
+msgstr "Stelle sicher, dass du die richtigen RSS Adressen zu deinen Blogroll Links (im Feld RSS-Adresse) eingegeben hast. Ansonsten funktioniert dieses Plugin nicht. Es wird nichts angezeigt, wenn eine falsche oder keine RSS Adresse eingegeben wurde!"
+
+#@ extended_blogroll
+#: extended-blogroll.php:214
+msgid "Widget Settings:"
+msgstr "Widget Einstellungen:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:216
+msgid "Title:"
+msgstr "Titel:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:219
+#: extended-blogroll.php:635
+msgid "Display items:"
+msgstr "Einträge anzeigen:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:221
+#: extended-blogroll.php:637
+msgid "(-1 will display all items)"
+msgstr "(-1 zeigt alle an)"
+
+#@ extended_blogroll
+#: extended-blogroll.php:223
+msgid "Display items from link category:"
+msgstr "Einträge aus der Link Kategorie:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:224
+msgid "Select Link Category"
+msgstr "Link Kategorie auswählen"
+
+#@ extended_blogroll
+#: extended-blogroll.php:226
+msgid "All Links"
+msgstr "Alle Links"
+
+#@ extended_blogroll
+#: extended-blogroll.php:235
+#: extended-blogroll.php:642
+msgid "Link Name Ascending"
+msgstr "Linkname aufsteigend"
+
+#@ extended_blogroll
+#: extended-blogroll.php:239
+#: extended-blogroll.php:643
+msgid "Link Name Descending"
+msgstr "Linkname absteigend"
+
+#@ extended_blogroll
+#: extended-blogroll.php:243
+#: extended-blogroll.php:644
+msgid "Link ID Ascending"
+msgstr "Link-ID aufsteigend"
+
+#@ extended_blogroll
+#: extended-blogroll.php:247
+#: extended-blogroll.php:645
+msgid "Link ID Descending"
+msgstr "Link-ID absteigend"
+
+#@ extended_blogroll
+#: extended-blogroll.php:251
+#: extended-blogroll.php:646
+msgid "Random Order"
+msgstr "Zufällige Reihenfolge"
+
+#@ extended_blogroll
+#: extended-blogroll.php:254
+#: extended-blogroll.php:640
+msgid "Item order:"
+msgstr "Sortierung der Einträge:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:255
+msgid "Select Item Order"
+msgstr "Eintragsreihenfolge auswählen"
+
+#@ extended_blogroll
+#: extended-blogroll.php:262
+msgid "(\"Random Order\" is recommended for less than all items)"
+msgstr "(Für weniger als alle Einträge empfiehlt sich die &quot;Zufällige Reihenfolge&quot;)"
+
+#@ extended_blogroll
+#: extended-blogroll.php:265
+#: extended-blogroll.php:653
+msgid "Items Configuration:"
+msgstr "Konfiguration der Einträge:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:271
+#: extended-blogroll.php:658
+msgid "Show no images"
+msgstr "Keine Bilder"
+
+#@ extended_blogroll
+#: extended-blogroll.php:275
+#: extended-blogroll.php:659
+msgid "Show my own images"
+msgstr "Eigene Bilder"
+
+#@ extended_blogroll
+#: extended-blogroll.php:279
+#: extended-blogroll.php:660
+msgid "Create and show thumbnails"
+msgstr "Thumbnails erstellen und anzeigen"
+
+#@ extended_blogroll
+#: extended-blogroll.php:283
+#: extended-blogroll.php:656
+msgid "Show link images:"
+msgstr "Zeige Link-Bilder:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:284
+msgid "Select if you want to show images"
+msgstr "Auswählen, ob du Bilder anzeigen möchtest"
+
+#@ extended_blogroll
+#: extended-blogroll.php:293
+msgid "Pixel (image size)"
+msgstr "Pixel (Bildgröße)"
+
+#@ extended_blogroll
+#: extended-blogroll.php:301
+#: extended-blogroll.php:670
+msgid "Show blogroll links ?"
+msgstr "Blogroll Links anzeigen ?"
+
+#@ extended_blogroll
+#: extended-blogroll.php:305
+#: extended-blogroll.php:317
+#: extended-blogroll.php:674
+#: extended-blogroll.php:684
+msgid "Add rel=\"nofollow\" ?"
+msgstr "mit rel=&quot;nofollow&quot; ?"
+
+#@ extended_blogroll
+#: extended-blogroll.php:311
+msgid "Display feed post links:"
+msgstr "Feedartikel Links anzeigen:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:313
+msgid "(between 1 and 10)"
+msgstr "(zwischen 1 und 10)"
+
+#@ extended_blogroll
+#: extended-blogroll.php:322
+msgid "Shorten feed post link text ?"
+msgstr "Feedartikel Linktext kürzen ?"
+
+#@ extended_blogroll
+#: extended-blogroll.php:325
+msgid "shorten to"
+msgstr "kürzen auf"
+
+#@ extended_blogroll
+#: extended-blogroll.php:326
+msgid "characters"
+msgstr "Zeichen"
+
+#@ extended_blogroll
+#: extended-blogroll.php:333
+msgid "Show feed post excerpts ?"
+msgstr "Feedartikel Auszug anzeigen ?"
+
+#@ extended_blogroll
+#: extended-blogroll.php:337
+msgid "Characters for excerpts"
+msgstr "Zeichenlänge des Auszugs"
+
+#@ extended_blogroll
+#: extended-blogroll.php:337
+msgid "(between 10 and 999)"
+msgstr "(zwischen 10 und 999)"
+
+#@ extended_blogroll
+#: extended-blogroll.php:441
+msgid "No RSS Addresses are entered to your links in the Links SubPanel, therefore no items can be shown!"
+msgstr "In den Blogroll-Lins sind keine RSS-Adressen hinterlegt. Somit können keine angezeigt werden."
+
+#@ default
+#: extended-blogroll.php:612
+msgid "Settings"
+msgstr "Einstellungen"
+
+#@ extended_blogroll
+#: extended-blogroll.php:622
+msgid "Settings for the &#91;blogroll&#93;-shortcode"
+msgstr "Einstellungen für den &#91;blogroll&#93;-shortcode"
+
+#@ extended_blogroll
+#: extended-blogroll.php:632
+msgid "Shortcode Settings:"
+msgstr "Shortcode Einstellungen:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:664
+msgid "Thumbnail size: "
+msgstr "Thumbnailgröße:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:665
+msgid " Pixel"
+msgstr "Pixel"
+
+#@ extended_blogroll
+#: extended-blogroll.php:679
+msgid "Show Feed Items: "
+msgstr "Anzahl der Feeds:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:690
+msgid "Shorten Feedlink"
+msgstr "Linktext des Feed kürzen"
+
+#@ extended_blogroll
+#: extended-blogroll.php:693
+msgid "Short Link to: "
+msgstr "Kürzen auf:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:694
+#: extended-blogroll.php:704
+msgid " Characters"
+msgstr "Zeichen"
+
+#@ extended_blogroll
+#: extended-blogroll.php:700
+msgid "Shorten Feedsummary"
+msgstr "Feedtext kürzen"
+
+#@ extended_blogroll
+#: extended-blogroll.php:703
+msgid "Short Summary to: "
+msgstr "Kürze Feedtext auf:"
+
+#@ extended_blogroll
+#: extended-blogroll.php:710
+msgid "Save Changes"
+msgstr "Speichern"
+
